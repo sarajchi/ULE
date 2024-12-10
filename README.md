@@ -1,7 +1,7 @@
 # IMU-Video-Upper-Limb-Exoskeleton
 This repository is a multimodal user intention prediction algorithm based on MoViNet and LSTM. 
 # Dataset
-The dataset for user intention prediction with IMUs and a Camera is provided at the following link:
+The dataset for user intention prediction with IMUs and a Camera is provided at the following links:
 
 https://uweacuk-my.sharepoint.com/:u:/g/personal/mohammadhadi_sarajchi_uwe_ac_uk/Ea0sPpPfUBNEi2MIu_ilGQUBgd7g7J9-S4oxE1R0-LXdWw?e=rKdLnW
 
