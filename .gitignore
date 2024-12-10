@@ -1,0 +1,6 @@
+/.idea
+/.vscode
+/.env
+/Client-Side/Temporary_Data
+**/__pycache__
+/Client-Side/Line*
