@@ -8,7 +8,7 @@ A sliding window of length 10 is used for Video and IMU data. They move forward 
 ![Fig2_New13 (2)](https://github.com/user-attachments/assets/b0b32010-b240-471b-9919-28a564c2e7b2)
 
 # Model
-A new multimodal human action recognition model is proposed, which uses MoVinet to process the video data and LSTM to extract features from the IMU data, and finally fuses the above two features to classify the three actions of grasping, walking and placing during the process of carrying a box.
+A new multimodal user intention prediction model for an upper limb exoskeleton is proposed, which uses MoVinet to process the video data and LSTM to extract features from the IMU data, and finally fuses the above two features to classify the three actions of grasping, walking and placing during the process of carrying a box.
 ![Fig4 (1)](https://github.com/user-attachments/assets/4c561323-f942-4d44-ad9c-bb4513139d40)
 
 # Supplementary Material:
