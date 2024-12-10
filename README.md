@@ -1,4 +1,4 @@
-# IMU-Video-Human-Action-Recognise
+# IMU-Video-Upper-Limb-Exoskeleton
 This repository is a multimodal human action recognise algorithm based on MoViNet and LSTM. 
 # Dataset
 The dataset for Human Action Recognition with IMUs and a Camera is provided at the following link:
