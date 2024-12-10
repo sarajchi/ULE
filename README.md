@@ -1,7 +1,7 @@
 # IMU-Video-Upper-Limb-Exoskeleton
-This repository is a multimodal human action recognise algorithm based on MoViNet and LSTM. 
+This repository is a multimodal user intention prediction algorithm based on MoViNet and LSTM. 
 # Dataset
-The dataset for Human Action Recognition with IMUs and a Camera is provided at the following link:
+The dataset for user intention prediction with IMUs and a Camera is provided at the following link:
 https://drive.google.com/file/d/1tn91HX9y28Xy6x3cmq3V3b6SHgiwPRpx/view?usp=sharing
 # Sliding Window
 A sliding window of length 10 is used for Video and IMU data. They move forward in both the Video stream and the IMU data stream to ensure that the data fed into the model is synchronised and maintains the same length.
